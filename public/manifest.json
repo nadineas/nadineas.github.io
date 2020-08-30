@@ -1,5 +1,5 @@
 {
-	"name": "website",
+	"name": "nadineas.github.io",
 	"version": "0.1.0",
 	"private": true,
 	"homepage": "https://nadineas.github.io/",
@@ -12,7 +12,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
-		"predeploy": "yarn run build",
+		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"},
